@@ -1,0 +1,26 @@
+h1{
+    font-family: Monotype Corsiva;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: maroon;
+}
+td{
+    border: 6px solid white;
+    height: 400px;
+    width: 150px;
+}
+#one{
+    background-color: #0081a7;
+}
+#two{
+    background-color: #00AFB9;
+}
+#three{
+    background-color: #FDFCDC;
+}
+#four{
+    background-color: #FED9B7;
+}
+#five{
+    background-color: #F07167;
+}

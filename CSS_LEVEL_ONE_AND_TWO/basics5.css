@@ -1,0 +1,20 @@
+h1{
+    font-family:"Monotype Corsiva";
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-family:"Monotype Corsiva";
+    font-style: italic;
+    font-weight: 600;
+
+}
+body{
+    background-color: cadetblue;
+    font-size: 20px;
+}
+#boss{
+    font-size: 1.0em;
+}
+/* 1em=16px
+2em=32px */

@@ -1,0 +1,17 @@
+body{
+    background: url(https://images.unsplash.com/photo-1581306847481-9c6c9dc8cea4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHRodW1icyUyMHVwfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: repeat-y;
+}
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 2px;
+    border-style: double;
+}
+p{
+    color: yellow;
+}
+span{
+    background-color: red;
+    color: black;
+}

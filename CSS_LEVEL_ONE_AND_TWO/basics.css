@@ -1,0 +1,15 @@
+/* selected tag{
+     property:value;
+} */
+h1{
+    color: blue;
+}
+li{
+    color: rgb(136, 47, 6);
+}
+p{
+    color: #360034 ;
+}
+h4{
+    color: rgba(14, 207, 175, 1);/*alpha specifies how dark or transparent is the colour 1=fully opaque and 0= transparent*/
+}
