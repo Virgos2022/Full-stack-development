@@ -1,10 +1,11 @@
 var a = prompt("Enter your First Name");
 var b = prompt("Enter your last name");
+var c = prompt("How old are you ?");
 var h = prompt("Enter Your Height");
 var ch = prompt("Enter your Nickname");
 var i = ch.length;
 var j = 0;
-if (a[j] == b[j] && h >= 170 && ch[i - 1] === "y") {
+if (a[j] == b[j] && (c >=20 && c<30) && h >= 170 && ch[i - 1] === "y") {
     console.log("Great !!! You have passed the SPY Test !!");
     alert("Welcome Agent Digvijay. The update is some pakistani militants are hiding in Leh!!!! ");
 }
